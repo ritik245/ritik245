@@ -5,8 +5,6 @@
 I am a passionate developer who enjoys building real-world projects using modern web technologies.  
 Currently exploring <b>MERN Stack</b>, <b>Blockchain</b>, and <b>Backend Systems</b>.
 
-- 🔭 Working on full-stack and blockchain-based projects  
-- 🌱 Learning advanced backend & system design  
 - ⚡ Love solving DSA and competitive programming problems  
 
 <hr/>
