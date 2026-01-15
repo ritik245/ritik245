@@ -3,7 +3,7 @@
 
 ## 👨‍💻 About Me
 I am a passionate developer who enjoys building real-world projects using modern web technologies.  
-Currently exploring <b>MERN Stack</b>,<b>PHP </b> <b>Blockchain</b>, and <b>Backend Systems</b>.
+Currently exploring <b>MERN Stack</b>,<b>PHP </b>, <b>Blockchain</b>, and <b>Backend Systems</b>.
 
 - ⚡ Love solving DSA and competitive programming problems  
 
