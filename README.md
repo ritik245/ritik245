@@ -98,7 +98,8 @@ const ritik = {
 <!--OSS:START-->
 | Repository | Pull Request | Status |
 |---|---|---|
-| — | Contributions will appear here after the first workflow run | — |
+| [dotnet/dotnet-api-docs](https://github.com/dotnet/dotnet-api-docs) | [Update Process docs for UseShellExecute default of false](https://github.com/dotnet/dotnet-api-docs/pull/13167) | 🟢 Open |
+| [dotnet/dotnet-api-docs](https://github.com/dotnet/dotnet-api-docs) | [Remove outdated UseShellExecute requirement from ProcessWindowStyle.H…](https://github.com/dotnet/dotnet-api-docs/pull/13166) | 🟢 Open |
 <!--OSS:END-->
 
 ---
